@@ -1,4 +1,4 @@
-Job_Title,Skill,Company,No_of_Reviews,No_of_Stars,Date_Since_Posted,Location,Company_Employees,Company_Industry
+title,skill,company,review_count,star_rating,days_since_posting,location,company_size,domain
 Data Analyst,Tableau,Ace Technologies,16,4.099999905,1,FL,,Internet and Software
 Junior Data Analyst,SQL,ThirdLove,47,4,12,CA,"Less than 10,000",Consumer Goods and Services
 Data Analyst,Time Management| SQL,Optimove,,,2,NY,,
@@ -121,7 +121,7 @@ Data Analyst,SPSS| Statisical Analysis| Microsoft Office,Emory University,580,4.
 Data Analyst,Microsoft Powerpoint| Project Management| Statisical Analysis| SAS| Tableau,Major League Soccer,24,4.099999905,30,NY,,
 Data Analyst,SQL,Brown & Brown Insurance,,,30,CA,,
 "Data Analyst- Glendale, CA",Microsoft Word| Microsoft Office| Excel| SQL| Microsoft Access,Fidelity National Financial,576,3.799999952,6,CA,"10,000+",Insurance
-GIS DATA ANALYST,"ArcGIS| ""Drivers License""| GIS| Python",City of Tucson,70,3.700000048,19,AZ,,Government
+GIS DATA ANALYST,ArcGIS| Drivers License| GIS| Python,City of Tucson,70,3.700000048,19,AZ,,Government
 Data Analyst,Data Analysis,General Dynamics Information Technology,4573,3.799999952,21,AR,"10,000+",Aerospace and Defense
 Data Analyst-HEDIS & Star,Microsoft SQL Server| SAS| SQL| Microsoft Office| Managed Care,SCAN Health Plan,87,4,8,CA,,Insurance
 Data Analyst,Microsoft SQL Server| SQL| Microsoft Access| REST,Alegeus Technologies,14,3.099999905,30,FL,,
@@ -222,6 +222,8 @@ Senior Data Analyst,Machine Learning| SQL| Python,GlassDoor,2,3,1,MD,"10,000+","
 Data Analyst - Personalized Customer Experience,JavaScript| R| SQL| HTML5| Tableau| Confluence| CSS| Python| Jira,Bose,717,4.199999809,30,MA,,Computers and Electronics
 Data Analyst,Data Mining| Statisical Analysis,Ingram Content Group,96,3.200000048,21,TN,"Less than 10,000",
 Data Analyst,SAS| Microsoft Office| SQL,Progressive,2080,3.799999952,4,OH,"10,000+",Insurance
+DATA ANALYST,,Jamul Casino,,,30,CA,,
+Data Analyst,SQL| Tableau,ipsy,4,4,30,CA,,
 Digital Content Data Analyst,Excel| Customer Service| Microsoft Access,The Home Depot,41290,3.799999952,5,GA,"10,000+",RetailConsumer Goods and Services
 Data Analyst II,Data Analysis| SQL| Microsoft Access,Centene,1134,3.299999952,21,MO,"Less than 10,000",InsuranceHealth Care
 Data Analyst II,Data Analysis| SQL| Microsoft Access,Centene,1134,3.299999952,22,MO,"Less than 10,000",InsuranceHealth Care
@@ -274,8 +276,6 @@ Data Analyst-Revenue,SQL| Tableau| Microsoft Access| Analysis Skills,The Vancouv
 Medication Utilization Data Analyst,JavaScript| Data Analysis| CSS| Excel| HTML5| SQL,University of Virginia Health System,84,3.599999905,4,VA,"Less than 10,000",Health Care
 Data Analyst,Salesforce CRM| Data Analysis,Cancer Treatment Centers of America,309,3.799999952,26,AZ,"Less than 10,000",Health Care
 CMMS Data Analyst,Microsoft Office,Inframark,17,2.700000048,13,PA,"Less than 10,000",Energy and Utilities
-DATA ANALYST,,Jamul Casino,,,30,CA,,
-Data Analyst,SQL| Tableau,ipsy,4,4,30,CA,,
 Data Analyst,Excel,"Medifast, Inc",85,3.5,30,MD,"Less than 10,000",Consumer Goods and Services
 Senior Data Analyst-Marketing,,Kaiser Permanente,8164,4.199999809,30,CA,"10,000+",Health Care
 Data Analyst/Merchandising & Training,Microsoft Powerpoint| Microsoft Office| Tableau,American Merchandising Specialists,18,3.299999952,5,NJ,,
@@ -424,8 +424,9 @@ Marketing Data Analyst,SPSS| Data Analysis| R| Python| Tableau,Beaumont Health,7
 Implementation Data Analyst,Informatica| SQL| Microsoft Access,Fidelity Investments,3021,4.099999905,22,NC,"10,000+",Banks and Financial Services
 Bookkeeper/Data Analyst,,Envisagegroup,,,30,NY,,
 Healthcare Reimbursement and Data Analyst,Data Mining| Microsoft Powerpoint| Visual Basic| Power BI| Excel| SQL| Accounting,Ensign Services,174,2.799999952,30,TX,"10,000+",Health Care
-Clinical Data Analyst,"Crystal Reports| SQL| Microsoft Office| ""Drivers License""| Data Analysis",Sweetser,53,3,13,ME,,
+Clinical Data Analyst,Crystal Reports| SQL| Microsoft Office| Drivers License| Data Analysis,Sweetser,53,3,13,ME,,
 Data Analyst,Microsoft Powerpoint| Google Analytics| Excel| Spark| Data Analysis| Python,The Parking Spot,146,3.599999905,30,IL,"Less than 10,000","Restaurants, Travel and Leisure"
+Digital Data Analyst,Survey Design| SAS,Kaiser Permanente,8164,4.199999809,29,CA,"10,000+",Health Care
 Data Analyst - Aftermarket,Data Mining| ERP Systems| Microsoft Office| APICS Certification| Supply Chain Experience,Zodiac Aerospace,1133,3.299999952,29,TX,,Transport and Freight
 Research and Evaluation Data Analyst,R| SQL,AIDS Foundation of Chicago,9,4.599999905,22,IL,,
 "Data Analyst, Customer Support Operations",SQL,Coinbase,3,4.699999809,6,OR,"Less than 10,000",Internet and Software
@@ -570,7 +571,7 @@ Epidemiologist and Data Analyst-FHP,Statistical Software| SPSS,BRS,34,3.70000004
 Master Data Analyst,,FARO Technologies,57,3.5,30,FL,,Industrial Manufacturing
 Health Data Analyst - Experienced,R| SAS| Microsoft Office| SQL| Microsoft Access| Python,Blue Shield of California,542,3.599999905,21,CA,"Less than 10,000",Health Care
 Marketing Data Analyst,Business Intelligence| Microsoft Powerpoint| Marketing Automation| Marketing| Omniture| SQL| Tableau| Marketo| Visio| Doubleclick| Multichannel Marketing,Rauxa,12,3.5,27,CA,,
-Quality Data Analyst,"Microsoft Powerpoint| ""Drivers License""| Clean Driving Record| Leadership Experience| Microsoft Office| SQL",Altair Engineering,62,4.199999809,9,MI,,
+Quality Data Analyst,Microsoft Powerpoint| Drivers License| Clean Driving Record| Leadership Experience| Microsoft Office| SQL,Altair Engineering,62,4.199999809,9,MI,,
 "Data Analyst, Games and Marketing",Quantitative Analysis| R| Python| SQL| Tableau,Kongregate,,,30,OR,,
 Surveillance Data Analyst,Microsoft SQL Server| R| Eclipse| Crystal Reports| SQL| STATA| MySQL| C#| SPSS| PostgreSQL| OOP| SAS| Java| .Net| Visual Studio| UI,Battelle,291,3.799999952,20,GA,"10,000+",Consulting and Business Services
 Operations Data Analyst,,TracyLocke,17,3.900000095,30,IL,"Less than 10,000",Consulting and Business Services
@@ -674,6 +675,7 @@ Business Data Analyst 1 (2018-077),R| Python,Astronics,17,3.099999905,27,WA,,
 Public Health Data Analyst,Epidemiology| Qualtrics| Medical Terminology| SAS,Emory University,580,4.099999905,30,GA,,Education and Schools
 Data Analyst,Power BI,"Accountants One, Inc",9,4.400000095,21,GA,,
 Data Analyst Sr,Microsoft Office,Sedgwick Claims Management Services,1005,3.200000048,30,CT,"10,000+",Insurance
+Data Analyst,SQL| Tableau,Dollar Shave Club,7,3.900000095,30,CA,"Less than 10,000",Consumer Goods and Services
 Senior Data and Reporting Professional / Data Analyst - Knox...,QlikView| SAS| Excel| SQL| Tableau,Humana,4686,3.700000048,19,FL,"10,000+",Health Care
 Senior Data Analyst,QlikView| SQL,Internet Brands,,,30,MI,,
 Portfolio Data Analyst,Project Management| SQL| Excel| Microsoft Office,Ameritas,101,3.200000048,30,OH,"Less than 10,000",Insurance
@@ -782,7 +784,6 @@ Enrollment Data Analyst,Data Mining| Crystal Reports| SQL| Microsoft Office| Mic
 Data Analyst,SQL| Tableau,ipsy,4,4,13,NY,,
 Data Analyst,Survey Design| Data Analysis| R| Statisical Analysis| Python| Quantitative Research| SQL,Bird Rides Inc.,5,4.599999905,29,NY,,Transport and Freight
 Data Analyst,Excel| SQL| Tableau,Fullscreen Media,33,4.199999809,30,CA,,
-Data Analyst,SQL| Tableau,Dollar Shave Club,7,3.900000095,30,CA,"Less than 10,000",Consumer Goods and Services
 Data Analyst,Quantitative Analysis| Google Analytics| Visual Basic| R| SQL| Tableau| Analysis Skills| Data Warehouse| Python,Pond5,,,20,NY,,
 Beta Data Analyst,Business Intelligence| Google Analytics| R| SQL| Excel| Tableau| Python,Ring Inc.,,,8,CA,,
 Data Analyst III,Data Warehouse| Excel| SQL| Microsoft Office| Microsoft Access| Tableau,Centene,1134,3.299999952,1,MO,"Less than 10,000",InsuranceHealth Care
@@ -837,7 +838,6 @@ Transportation Data Analyst,Transportation Management| SQL| Microsoft Office,enV
 Data Analyst,Oracle| SQL,Capgemini,6072,3.799999952,13,NC,"10,000+",Consulting and Business Services
 Data Analyst,Oracle| SQL,Capgemini,6072,3.799999952,13,NC,"10,000+",Consulting and Business Services
 Data Analyst,Microsoft SQL Server| Hadoop| R| SQL| Tableau| Java| Spark| Data Warehouse| Informatica| Python,MetroStar Systems,11,4.5,1,MD,"Less than 10,000",
-Digital Data Analyst,Survey Design| SAS,Kaiser Permanente,8164,4.199999809,29,CA,"10,000+",Health Care
 Data Analyst,Hadoop| Tableau| Spark| Data Analysis| Python,Preferred Resources Inc.,,,6,MO,,
 Commercial Data Analyst,SAS| SQL| Tableau,Cable & Wireless Communications Inc,293,4.099999905,1,FL,,
 Intelligence Data Analyst,Machine Learning| R| Python,Booz Allen Hamilton,1733,3.900000095,17,FL,"10,000+",Consulting and Business Services
@@ -1092,6 +1092,7 @@ Data Analyst 2,SharePoint| Data Mining| Data Analysis| Hadoop| Tableau,Capgemini
 "Data Analyst, Ecommerce",Data Mining| Power BI| R| Python| SQL| Tableau,BoxyCharm,6,2.799999952,30,FL,,
 "Senior Analyst, Data Analytics",Business Intelligence| Microsoft Powerpoint| Hadoop| R| SAS| Data Science| Python,Prudential,2348,3.900000095,1,CT,"10,000+",Banks and Financial Services
 "Data Analyst, Ecommerce",Data Mining| Power BI| R| Python| SQL| Tableau,Boxy Charm,6,2.799999952,30,FL,,
+Salesforce Data Analyst,XML| SQL| Microsoft Office| Data Warehouse| Data Analysis,Acumen Solutions,14,3.700000048,15,IL,,
 Data Analyst IV,Business Intelligence| Excel| SQL| Microsoft Office| Microsoft Access| Data Warehouse| Data Analysis,Centene,1134,3.299999952,30,CA,"Less than 10,000",InsuranceHealth Care
 Salesforce Data Analyst,XML| SQL| Microsoft Office| Data Warehouse| Data Analysis,Acumen Solutions,14,3.700000048,15,CA,,
 Data Analyst IV,Data Warehouse| Data Analysis| Excel| SQL| Microsoft Office| Microsoft Access,Centene,1134,3.299999952,30,MO,"Less than 10,000",InsuranceHealth Care
@@ -1100,7 +1101,7 @@ Senior Data Analyst,,NORC at the University of Chicago,,,28,IL,"Less than 10,000
 Data Analyst – Business Intelligence,R| Python| Jira| SQL| Tableau,"iSpot.tv, Inc.",,,30,WA,,
 Data Analyst,JavaScript| Hive| Machine Learning| Hadoop| R| SAS| SQL| Tableau| Big Data| Predictive Analytics| Python,Glu Mobile,16,3.200000048,30,CA,,
 IT Healthcare Data Analyst,Business Intelligence| Excel| SQL,CenCal Health,7,4.300000191,7,CA,,
-Clinical Data Analyst,"Conflict Management| Epic| ""Drivers License""| Business Analysis",Ely-Bloomenson Community Hospital,,,1,MN,,
+Clinical Data Analyst,Conflict Management| Epic| Drivers License| Business Analysis,Ely-Bloomenson Community Hospital,,,1,MN,,
 "Data Analyst - Technology - Remote, Nationwide",Business Intelligence| Database Administration| Microsoft SQL Server| SQL,Bank of America Merchant Services,167,3.5,5,NC,"Less than 10,000",Banks and Financial Services
 "Data Analyst - Technology - Remote, Nationwide",Business Intelligence| Database Administration| Microsoft SQL Server| SQL,Bank of America Merchant Services,167,3.5,5,NC,"Less than 10,000",Banks and Financial Services
 Scientific Data Analyst,Statistical Software| Data Mining| R| MATLAB| Python,Stanford University,530,4.300000191,26,CA,"Less than 10,000",Education and Schools
@@ -1188,7 +1189,6 @@ Data Analyst,Microsoft SQL Server| SDLC| Oracle| SQL| ITIL| Data Analysis,Protec
 Sr Digital Data Analyst,Google Analytics| R| Python| SQL| Tableau,"Discovery Communications, LLC",321,4.199999809,30,NY,"Less than 10,000","Media, News and Publishing"
 Customer Quality Data Analyst,,Zachary Piper Solutions,,,30,PA,"Less than 10,000",Internet and Software
 Senior Data Analyst,Machine Learning| Power BI| SQL,Team Red Dog,,,25,WA,,
-Salesforce Data Analyst,XML| SQL| Microsoft Office| Data Warehouse| Data Analysis,Acumen Solutions,14,3.700000048,15,IL,,
 "Analyst, Imagery Analytics",R| Python| SQL| Tableau,Wayfair,397,3.400000095,26,MA,"Less than 10,000",Internet and Software
 "SQL Data Analyst, Analyst/Officer",Data Warehouse| SQL,MUFG,41,2.599999905,30,NJ,"10,000+",Banks and Financial Services
 Senior Data Analyst,Accounting| Data Mining| SQL,RK,13,3.200000048,30,CO,"Less than 10,000",Construction
@@ -1331,6 +1331,7 @@ Data Analyst,Salesforce CRM| Alteryx| Hyperion| Tableau,"Alteryx, Inc.",5,5,6,CA
 Data Analyst,Machine Learning| Data Warehouse| R| Python| SQL,Convoy,5,4.800000191,30,WA,,
 Data Analyst - DAS,Data Mining| Microsoft SQL Server| Data Management| R| Oracle| SAS| SQL| Sybase| MySQL,GroupM,95,3.799999952,18,NY,"10,000+","Media, News and Publishing"
 Data Analyst,Statistical Software| Hive| Quantitative Analysis| Data Mining| Machine Learning| Scripting| Hadoop| Perl| R| SAS| SQL| Python| Data Science| PHP,Wish,17,4,7,CA,"Less than 10,000",Internet and Software
+Blockchain Data Analyst,Microsoft SQL Server| Hadoop| Oracle| C/C++| SQL| Java| Big Data| PostgreSQL| Python,DRW,,,30,IL,,
 Watson Health- Business Data Analyst,PMP| SPSS| R| SAS| Python| Microsoft Office| SQL| Tableau,IBM,23472,3.900000095,1,USA,"10,000+",Consulting and Business Services
 "Data Analyst, People Analytics",Statistical Software| Hive| Scripting| Project Management| R| Oracle| SQL| Workday| Tableau| Python,Facebook,387,4.199999809,13,CA,"10,000+",Internet and Software
 Data Analyst,Microsoft Powerpoint| Visual Basic| R| SAS| SQL| Excel| Java| Python,Hudson's Bay,1679,3.700000048,30,NY,"10,000+",Retail
@@ -1468,7 +1469,7 @@ Data Analyst/Business Analyst -Digital Health and Telehealth,JavaScript| Project
 Global HR Master Data Analyst,OBIEE| Oracle,Estee Lauder,1464,4.099999905,30,NY,"10,000+",Consumer Goods and Services
 Sr. Data Analyst,Data Mining| Machine Learning| Hadoop| R| SQL| Java| Natural Language Processing| Predictive Analytics| Python,[24]7,211,3.900000095,13,CA,"10,000+",Computers and Electronics
 Sr. Data Analyst,Data Mining| Machine Learning| Hadoop| R| SQL| Java| Natural Language Processing| Predictive Analytics| Python,[24]7,211,3.900000095,13,CA,"10,000+",Computers and Electronics
-Blockchain Data Analyst,Microsoft SQL Server| Hadoop| Oracle| C/C++| SQL| Java| Big Data| PostgreSQL| Python,DRW,,,30,IL,,
+PM/BA - Banking IT Risk / Ops Risk - Tableau - Up to $650/da...,SQL| Tableau,Dice,,,11,NY,,
 Senior Data Analyst,Quantitative Analysis| Data Mining| R| Statisical Analysis| Python| SQL| Tableau,PeerStreet,,,10,CA,,
 SAS Data Analyst,Microsoft SQL Server| Data Mining| R| SAS| Tableau| STATA| SharePoint| MATLAB,"Onyx Government Services, LLC",4,4.5,30,DC,,
 SQL Data Analyst- Applied Technology - Tax,T-SQL| Microsoft SQL Server| Accounting| SQL| Tableau,Crowe,183,3.799999952,21,IL,"Less than 10,000",Consulting and Business Services
@@ -1556,6 +1557,7 @@ Data Analyst,Data Mining| R| SAS| SQL| Java| Intelligence Experience| SPSS| MATL
 Data Analyst,Data Mining| R| SAS| SQL| Java| Intelligence Experience| SPSS| MATLAB| Python,ManTech International Corporation,1275,4,30,VA,"Less than 10,000",Aerospace and Defense
 Business Data Analyst 3,Microsoft SQL Server| ERP Systems| Azure| SQL| Tableau| Big Data| Telecommunication| AWS,Asurion,1905,3.700000048,6,TN,"10,000+",Telecommunications
 "Data Analyst, Principal",Hadoop,CACI,1435,3.900000095,30,DC,"10,000+",Consulting and Business Services
+Director of Analytics - Healthcare,Business Intelligence,Goodwin Recruiting,8,4.5,30,IN,,Human Resources and Staffing
 "Analyst, Advanced Analytics and Data Science",Business Intelligence| Microsoft SQL Server| Scripting| Azure| SQL| Tableau| Design Experience| Python,Kennametal,382,3.799999952,8,PA,"10,000+",Industrial Manufacturing
 "Business / Data Analyst, Officer",Microsoft Powerpoint| Business Analysis| Microsoft Office| Microsoft Access,State Street,2067,3.5,17,MA,"10,000+",Banks and Financial Services
 Lead Data Analyst,Microsoft SQL Server| Oracle| SAS| Crystal Reports| SQL| Microsoft Office| Microsoft Word| Data Analysis,EmblemHealth,517,3.599999905,28,NY,"Less than 10,000",Insurance
@@ -1775,8 +1777,6 @@ Director of Product Analytics - Ecommerce,R| Data Science| Python| SQL,Harnham,6
 "Director of Technology & Analytics, Irvine, CA",Database Marketing| Machine Learning| Hadoop| Azure| Spark| Design Experience| AWS,BCG Digital Ventures,4,4.5,30,CA,,
 CCB F&BM Chase Merchant Services Pricing & Analytics Executi...,SAS| Microsoft Access| Management Consulting,JPMorgan Chase,21159,3.900000095,12,NJ,"10,000+",Banks and Financial Services
 Product Analytics Principal Manager,R| SQL| Confluence| Design Experience| Python,Atlassian,11,4.5,28,CA,"Less than 10,000",Internet and Software
-Director of Analytics - Healthcare,Business Intelligence,Goodwin Recruiting,8,4.5,30,IN,,Human Resources and Staffing
-PM/BA - Banking IT Risk / Ops Risk - Tableau - Up to $650/da...,SQL| Tableau,Dice,,,11,NY,,
 CCB F&BM Chase Merchant Services Pricing & Analytics Executi...,SAS| Microsoft Access| Management Consulting,JPMorgan Chase,21159,3.900000095,12,DE,"10,000+",Banks and Financial Services
 Analytics High Value Consulting Senior Manager - Consumer Go...,Management Consulting| Data Analysis,Accenture,14988,4,30,GA,"10,000+",Consulting and Business Services
 Analytics High Value Consulting Senior Manager - Consumer Go...,Management Consulting| Data Analysis,Accenture,14988,4,30,NY,"10,000+",Consulting and Business Services
